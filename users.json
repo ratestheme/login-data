@@ -1,9 +1,1 @@
-{
-  "pranab": {
-    "password": "pranab@12Z",
-    "device_id": "0x34de1ab129a6"
-  },
-  "6e64acc7481d": {
-    "password": "1"
-  }
-}
+{"pranab": {"password": "pranab@12Z", "device_id": "0x34de1ab129a6"}, "6e64acc7481d": {"password": "1"}, "azorawe": {"password": "lopoing12", "device_id": "0xfe59215556e2"}}
